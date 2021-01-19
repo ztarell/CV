@@ -10,8 +10,9 @@ Machine Learning algorithms
 
 ------------------------
 
-Topics
- Pixel Techniques: Quantization, Color, Segmentation, Rescaling, Geometric-transformations.
- Neighborhood Techniques: Cross-correlation, Convolution, Edge Detection, Smoothing, Image transforms.
- Perspective Geometry.
- Deep Learning, convolutional neural nets.
+Topics:
+
+-Pixel Techniques: Quantization, Color, Segmentation, Rescaling, Geometric-transformations.
+-Neighborhood Techniques: Cross-correlation, Convolution, Edge Detection, Smoothing, Image transforms.
+-Perspective Geometry.
+-Deep Learning, convolutional neural nets.
